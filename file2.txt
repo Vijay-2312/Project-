@@ -1,0 +1,15 @@
+global regular expression
+streaming editor
+version control
+continous integration
+continous delivery
+water fall method
+deployment
+high quality
+expenditure
+realibility 
+graphical user interface
+collection of software
+linux plux kernal
+simplified update 
+
