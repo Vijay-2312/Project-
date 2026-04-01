@@ -12,4 +12,5 @@ graphical user interface
 collection of software
 linux plux kernal
 simplified update 
+gain edited
 
