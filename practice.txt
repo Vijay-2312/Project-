@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change B
+=======
+Change A
+>>>>>>> feature-a
